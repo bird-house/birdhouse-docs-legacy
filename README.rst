@@ -14,10 +14,15 @@ Birdhouse
    :target: https://gitter.im/bird-house/birdhouse?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
    :alt: Join the chat at https://gitter.im/bird-house/birdhouse
 
+
+.. warning::
+      
+    This is the legacy documention for birds built with PyWPS.
+    Please refer to the `new documention <https://birdhouse.readthedocs.io/en/latest/>`_ for birds built with `pygeoapi <https://pygeoapi.io/>`_.
+
 Birdhouse is a GitHub organization comprised of Python projects related
 to `Web Processing Services <http://geoprocessing.info/wpsdoc/>`_ to support climate data analysis.
 
 The full `documentation <http://birdhouse.readthedocs.io/en/latest/>`_
 is available on ReadTheDocs and in the `docs/` folder.
 
-.. warning:: This is the legacy documention for birds with PyWPS. Please look at the `new documention <https://birdhouse2-docs.readthedocs.io/en/latest/>`_ for birds with pygeoapi.
